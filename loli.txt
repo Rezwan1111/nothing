@@ -1,3 +1,7 @@
 What is in your mind?
+<<<<<<< HEAD
 this is changed by f1
+=======
+this is crated by f2
+>>>>>>> f2
 
